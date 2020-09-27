@@ -22,13 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8f311b-e935-4665-b9ed-abc03bd79de3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSM_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSM_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c8f311b-e935-4665-b9ed-abc03bd79de3" name="Default" comment="Another SSM" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -504,6 +498,21 @@
       <workItem from="1515489313928" duration="875000" />
       <workItem from="1516608956542" duration="49000" />
     </task>
+    <task id="LOCAL-00001" summary="Another SSM">
+      <created>1601193048224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601193048224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Another SSM">
+      <created>1601193095674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601193095674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -523,11 +532,39 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Another SSM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another SSM" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1601192886211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601192886211" />
+    <state width="938" height="398" key="GridCell.Tab.0.bottom" timestamp="1601193066211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601193066211" />
+    <state width="938" height="398" key="GridCell.Tab.0.center" timestamp="1601193066211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="398" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601193066211" />
+    <state width="938" height="398" key="GridCell.Tab.0.left" timestamp="1601193066211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="398" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601193066211" />
+    <state width="938" height="398" key="GridCell.Tab.0.right" timestamp="1601193066211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="398" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601193066211" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601193170334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601193170334" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601193027036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601193027036" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
